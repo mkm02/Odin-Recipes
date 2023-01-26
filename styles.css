@@ -69,6 +69,14 @@
     align-items: center;
     margin-right: 20px;
 }
+.aboutus {
+    display: flex;
+    background-color: rgb(100, 175, 237);
+    color: lightgray;
+    font-size: 24px;
+    align-items: center;
+    margin-right: 20px;
+}
 
 .component {
     font-family: "Helvetica", "Verdana", sans-serif;
